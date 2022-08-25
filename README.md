@@ -1,1 +1,1 @@
-Hello, Sergei
+Hello, Hexlet! How are you?
